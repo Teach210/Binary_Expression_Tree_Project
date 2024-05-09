@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary_Expression_Tree_Project", "Binary_Expression_Tree_Project.vcxproj", "{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Debug|x64.ActiveCfg = Debug|x64
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Debug|x64.Build.0 = Debug|x64
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Debug|x86.Build.0 = Debug|Win32
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Release|x64.ActiveCfg = Release|x64
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Release|x64.Build.0 = Release|x64
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Release|x86.ActiveCfg = Release|Win32
+		{BB063AD6-E54B-4FEC-B1E2-8B27D1D1E040}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EC9FCE-7F83-4120-9FA9-457ACBA693E2}
+	EndGlobalSection
+EndGlobal
