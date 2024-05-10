@@ -129,6 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Binary_Expression_Tree_Project.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="binaryExpressionTree.h" />
+    <ClInclude Include="binaryTree.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="RpnData.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
